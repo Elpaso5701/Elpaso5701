@@ -2,7 +2,7 @@
 
 December 2022 - Current time: JavaScript/Front-end developing Udemy Shcool
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React /n
  👯 I’m looking for a job on a junior JS developer position...
  
  My stack of technology
