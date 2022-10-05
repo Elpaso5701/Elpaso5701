@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+December 2022 - Current time: JavaScript/Front-end Udemy Shcool
 <!--
 **Elpaso5701/Elpaso5701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
