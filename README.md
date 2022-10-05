@@ -1,13 +1,21 @@
 ### Hi there 👋
 
-December 2022 - Current time: JavaScript/Front-end Udemy Shcool
+December 2022 - Current time: JavaScript/Front-end developing Udemy Shcool
+
+- 🌱 I’m currently learning React
+ 👯 I’m looking for a job on a junior JS developer position...
+ 
+ My stack of technology
+ 
+ https://img.shields.io/static/v1?label=<LABEL>html=<MESSAGE>&color=<COLOR>
+ 
 <!--
 **Elpaso5701/Elpaso5701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
