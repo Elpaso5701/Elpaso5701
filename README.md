@@ -10,6 +10,6 @@ December 2022 - Current time: JavaScript/Front-end developing Udemy Shcool
  
  My stack of technology
  
- <img scr = "https://img.shields.io/badge/HTML-E34F26/>
+ <img scr = "https://img.shields.io/badge/HTML-E34F26"/>
 
 
