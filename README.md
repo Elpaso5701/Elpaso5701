@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-December 2022 - Current time: JavaScript/Front-end developing Udemy Shcool
+Current time: Loocking for a position Junior Business Analyst, Corezoid Developer
+
 
 - 🌱 I’m currently learning React
 
